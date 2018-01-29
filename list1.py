@@ -1,0 +1,2 @@
+cap=['mca']
+print(cap)
